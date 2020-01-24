@@ -5,7 +5,7 @@ image: images/manoaaquatics.jpg
 title: Swimming
 permalink: projects/swimmer
 # All dates must be YYYY-MM-DD format!
-date: 2011
+date: 2011-06-01
 labels:
   - Club
   - High School

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ics111game.png
+image: images/finalproject.png
 title: ICS 111 Final Project
 permalink: projects/finalproject
 # All dates must be YYYY-MM-DD format!
@@ -14,48 +14,9 @@ summary: A small collecting points game created for an ICS 111 final project.
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+For ics111 we were assigned a group project where we had to create any game of our choosing. Me and my partner Gunwook Baik decided to create a game in which we have a dragonball z character collect items to win. You would have to collect 7 dragon balls to win or to "make a wish", but you would have to avoid ki blasts that would take away one of your life. To replenish your life you could try and take the senzu beans that would restore the same amount a ki blast would take. Our character could also move in multiple directions and the spawning of all the attacks, orbs, and beans were random.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
+This project was created using much of what we learned in our previous ICS 111 projects. From our first project we learned how to control the movement of a spray can which he had transferred over to the movement of our character. From our second project we coded a random cleaning roomba which we used for the random spawning of the items within our game. 
 
 Source: <a href="https://www.youtube.com/watch?v=-e1Hy7TdYCk"><i class="large github icon "></i>jogarces/ics-111-game</a>
 

@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Engineering my future
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-022
+date: 2020-01-22
 labels:
   - Software Engineering
   - Javascript

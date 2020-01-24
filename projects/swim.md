@@ -13,7 +13,7 @@ labels:
 summary: The creation of my YouTube Channel
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/channelpic.png">
 
 Ever since I first started playing computer games, and gaming content became popular I always wanted to put something online of my own. So I started a YT channel when I was in middle school playing a small building/creation type of game. It had a small following but a dedicated community. I was introduced to this game from another mobile game and I got hooked on it for a long time. The game itself was very simple as you created items by mixing other items, and then building much like a 2d minecraft. I decided that I would make some tutorials on Youtube. 
 

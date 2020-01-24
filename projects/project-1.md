@@ -1,29 +1,25 @@
 ---
 layout: project
 type: project
-image: images/manoaaquatics.jpg
-title: Swimming
-permalink: projects/swimming
+image: images/vacay-square.png
+title: Vacay
+permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2011-06-01 - 2018 - 12 - 25
+date: 2015-12-15
 labels:
-  - Club
-  - High School
-  - Instructor
-summary: A club and high school swimmer who swam for 7 years.
+  - Javascript
+  - Meteor
+  - MongoDB
+  - GitHub
+summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="">
-  <img class="ui image" src="">
-  <img class="ui image" src="">
-  <img class="ui image" src="">
-</div>
+<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-  Swimming has been a part of my life since a very young age. I learned how to swim when I was in the second grade and joined Manoa Aquatics Swimming club when I reached middle school. When I got to club swimming it was an hour and a half a practice, 5 days a week. Sports are very much like computer science due to the discipline reqiured in both fields. To build stamina, improve times, you would have to go to practice everyday and swim to improve. Likewise, if you want to improve in code, it's a good habit to practice around the same amount of time, a couple hours a day, 5 days a week. In another aspect, swimming much like coding has aspects as an individual sport as well as a team based sports through individual events and relays. After swimming for many years I also became an instructor for kids to learn how to swim.
-  
-  As a club swimmer who only knew the basics, I had to try hard for every practice to keep up with the older and seasoned swimmers. As I progressed through different coaches and my age groups I was able to polish my skills and times. Times where I got sick would dramatically influence my ability do to being out of practice for so long. When it came to swimming in high school, everything amplified. The practices were longer, the sets were harder, and the competition was more fierce. This increase of workload stressed me to higher levels. As you pass the basics and go further into what you do, that is when you can see your potential. By the time I was a senior I could see how fast I could swim, and while I was not a state level I am proud of my times. Testing my limits was something that can be experienced in any fields, and I plan on chasing that feeling within my academic career as well.
+Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
+Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-
-
+In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+ 
+Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>

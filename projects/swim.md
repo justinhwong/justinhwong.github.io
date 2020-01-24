@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Swim
-permalink: projects/project-1
+permalink: projects/swim
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:

@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: ICS 111 Final Project
+permalink: projects/finalproject
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-05-10
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Eclipse
+  - Gaming
+summary: A small collecting points game created for an ICS 111 final project.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
@@ -57,5 +57,5 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://www.youtube.com/watch?v=-e1Hy7TdYCk"><i class="large github icon "></i>jogarces/ics-111-game</a>
 

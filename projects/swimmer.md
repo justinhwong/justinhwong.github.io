@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/manoaaquatics.jpg
 title: Swimming
-permalink: projects/swimming
+permalink: projects/swimmer
 # All dates must be YYYY-MM-DD format!
-date: 2011-06-01 - 2018 - 12 - 25
+date: 2011
 labels:
   - Club
   - High School

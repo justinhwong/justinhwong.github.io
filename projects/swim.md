@@ -1,17 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Swim
+image: images/potatosauceyt.png
+title: Youtube Channel
 permalink: projects/swim
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2014-05-24
 labels:
-  - Swimming
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: swimming
+  - Editing
+  - Thumbnails
+  - Recording
+summary: The creation of my YouTube Channel
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
@@ -20,4 +19,4 @@ Swimming has been a part of my life since a very young age. I learned how to swi
   
   As a club swimmer who only knew the basics, I had to try hard for every practice to keep up with the older and seasoned swimmers. As I progressed through different coaches and my age groups I was able to polish my skills and times. Times where I got sick would dramatically influence my ability do to being out of practice for so long. When it came to swimming in high school, everything amplified. The practices were longer, the sets were harder, and the competition was more fierce. This increase of workload stressed me to higher levels. As you pass the basics and go further into what you do, that is when you can see your potential. By the time I was a senior I could see how fast I could swim, and while I was not a state level I am proud of my times. Testing my limits was something that can be experienced in any fields, and I plan on chasing that feeling within my academic career as well.
   
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://www.youtube.com/channel/UCsZ0NPu6mz6qdya0Rtc8RBQ"><i class="large github icon"></i>theVacay/vacay</a>

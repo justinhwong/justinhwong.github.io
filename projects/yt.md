@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/potatosauceyt.png
 title: Youtube Channel
-permalink: projects/swim
+permalink: projects/yt
 # All dates must be YYYY-MM-DD format!
 date: 2014-05-24
 labels:

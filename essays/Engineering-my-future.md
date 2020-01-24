@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Engineering my future
+title: Engineering my future!
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-022
 labels:

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/potatosauceyt.png
+image: images/youtubepicture.png
 title: Youtube Channel
 permalink: projects/yt
 # All dates must be YYYY-MM-DD format!

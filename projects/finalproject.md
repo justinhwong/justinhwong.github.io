@@ -18,5 +18,5 @@ For ics111 we were assigned a group project where we had to create any game of o
 
 This project was created using much of what we learned in our previous ICS 111 projects. From our first project we learned how to control the movement of a spray can which he had transferred over to the movement of our character. From our second project we coded a random cleaning roomba which we used for the random spawning of the items within our game. We also learned how to implement backgrounds, pictures, and sounds from both of our earlier projects.
 
-Source: <a href="https://www.youtube.com/watch?v=-e1Hy7TdYCk"><i class="large github icon "></i>jogarces/ics-111-game</a>
+Youtube link to the game: <a href="https://www.youtube.com/watch?v=-e1Hy7TdYCk"><i class="large github icon "></i>/ics-111-game</a>
 

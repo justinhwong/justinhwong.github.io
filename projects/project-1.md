@@ -17,28 +17,13 @@ summary: A club and high school swimmer who swam for 7 years.
   <img class="ui image" src="">
   <img class="ui image" src="">
   <img class="ui image" src="">
-  <img class="ui image" src="g">
+  <img class="ui image" src="">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+  Swimming has been a part of my life since a very young age. I learned how to swim when I was in the second grade and joined Manoa Aquatics Swimming club when I reached middle school. When I got to club swimming it was an hour and a half a practice, 5 days a week. Sports are very much like computer science due to the discipline reqiured in both fields. To build stamina, improve times, you would have to go to practice everyday and swim to improve. Likewise, if you want to improve in code, it's a good habit to practice around the same amount of time, a couple hours a day, 5 days a week. In another aspect, swimming much like coding has aspects as an individual sport as well as a team based sports through individual events and relays. 
+  
+  As a club swimmer who only knew the basics, I had to try hard for every practice to keep up with the older and seasoned swimmers. As I progressed through different coaches and my age groups I was able to polish my skills and times. Times where I got sick would dramatically influence my ability do to being out of practice for so long. When it came to swimming in high school, everything amplified. The practices were longer, the sets were harder, and the competition was more fierce. This increase of workload stressed me to higher levels. As you pass the basics and go further into what you do, that is when you can see your potential. By the time I was a senior I could see how fast I could swim, and while I was not a state level I am proud of my times. Testing my limits was something that can be experienced in any fields, and I plan on chasing that feeling within my academic career as well.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 

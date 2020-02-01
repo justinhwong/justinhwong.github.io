@@ -76,8 +76,23 @@
       ]
     }
   ],
-  "work": [
+    "work": [
     {
+      "company": "",
+      "position": "",
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+        ""
       ]
     },
     {
@@ -86,8 +101,15 @@
       "website": "",
       "startDate": "",
       "endDate": "",
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
+        "",
+        ""
         ""
       ]
     }

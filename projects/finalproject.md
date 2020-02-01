@@ -12,7 +12,7 @@ labels:
 summary: A small collecting points game created for an ICS 111 final project.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/gamewin.png">
+<p align="center"><img class="ui image" src="{{ site.baseurl }}/images/gamewin.png"></p>
 
 For ics111 we were assigned a group project where we had to create any game of our choosing. Me and my partner Gunwook Baik decided to create a game in which we have a dragonball z character collect items to win. You would have to collect 7 dragon balls to win or to "make a wish", but you would have to avoid ki blasts that would take away one of your life. To replenish your life you could try and take the senzu beans that would restore the same amount a ki blast would take. Our character could also move in multiple directions and the spawning of all the attacks, orbs, and beans were random.
 

@@ -14,9 +14,9 @@ summary: A small collecting points game created for an ICS 111 final project.
 
 <p align="center"><img class="ui image" src="{{ site.baseurl }}/images/gamewin.png"></p>
 
-For ics111 we were assigned a group project where we had to create any game of our choosing. Me and my partner Gunwook Baik decided to create a game in which we have a dragonball z character collect items to win. You would have to collect 7 dragon balls to win or to "make a wish", but you would have to avoid ki blasts that would take away one of your life. To replenish your life you could try and take the senzu beans that would restore the same amount a ki blast would take. Our character could also move in multiple directions and the spawning of all the attacks, orbs, and beans were random.
+For ics111 we were assigned a group project where we had to create any game of our choosing. Me and my partner Gunwook Baik decided to create a game in which we have a Dragonball Z character collect items to win. You would have to collect 7 dragon balls to win or to "make a wish", but you would have to avoid ki blasts that would take away one of your life. To replenish your life you could try and take the senzu beans that would restore the same amount a ki blast would take. Our character could also move in multiple directions and the spawning of all the attacks, orbs, and beans were random.
 
-This project was created using much of what we learned in our previous ICS 111 projects. From our first project we learned how to control the movement of a spray can which he had transferred over to the movement of our character. From our second project we coded a random cleaning roomba which we used for the random spawning of the items within our game. We also learned how to implement backgrounds, pictures, and sounds from both of our earlier projects.
+This project was created using much of what we learned in our previous ICS 111 projects. From our first project we learned how to control the movement of a spray can which he had transferred over to the movement of our character. From our second project we coded a random cleaning Roomba, which we used for the random spawning of the items within our game. We also learned how to implement backgrounds, pictures, and sounds from both of our earlier projects.
 
-Youtube link to the game: <a href="https://www.youtube.com/watch?v=-e1Hy7TdYCk"><i class="="></i>ics-111-game</a>
+YouTube link to the game: <a href="https://www.youtube.com/watch?v=-e1Hy7TdYCk"><i class="="></i>ics-111-game</a>
 

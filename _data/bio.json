@@ -76,59 +76,7 @@
       ]
     }
   ],
-    "work": [
-    {
-      "company": "",
-      "position": "",
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
+  
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -143,10 +91,4 @@
       "summary": ""
     }
   ],
-  "references": [
-    {
-      "name": "",
-      "reference": ""
-    }
-  ]
 }

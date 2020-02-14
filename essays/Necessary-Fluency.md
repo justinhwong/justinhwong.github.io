@@ -20,6 +20,5 @@ labels:
   When you learn coding standards, you will understand other's code more. When working on a group project, or working for a future company, it would prove to be useful, when you can quickly understand another's code. Noone likes to read a disorganized book, so you should not write like a disorganized author. 
 
 ## Experiencing ESLint
-<p align="center"><img class="ui medium right floated rounded image" src="../images/stressing.jpg"></p>
   Starting out with IntelliJ in general was an interesting transition from JSFiddle. Having to include multiple things within our WODs seems a lot more strenuous at first, but smooths out after a couple practices. Installing ESLint and checking coding standards first took minimum five minutes, but I can now do it between 2 and 3. Although I believe coding standards are a fundamental part of learning how to code, I believe it should not be stressed during a timed environment such as our WODs. It would be a terrible feeling to complete the WOD and then be unable to get the green check although it is unlikely. Learning wise, I believe ESLint is a good checker, much like CheckStyle which we had to use in ICS 211. As the semester continues, ESLint errors will be a lot easier to work around, and hopefully it will just become second nature.
 

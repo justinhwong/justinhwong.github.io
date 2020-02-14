@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Fluency is Necessary
+title: Necessary Fluency
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-13
 labels:

@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Building the foundation
-<p align="center"><img class="ui small left circular floated image" src="../images/codingStandard.jpg"></p>
+<p align="center"><img class="ui tiny left circular floated image" src="../images/codingStandard.jpg"></p>
   Coding is very much like learning a language, in learning and in application. Many of us express ourselves differently in languages, and likewise, we all code in our own personal style. On the contrary, when things become formal, there then becomes a set standard. In essays, we have to include transitions, indent, and use proper diction as a formality. Similarly in coding, we have coding standards where we have to format our code in a more universal, readable way. Writing essays provide a consistent read for all viewers. When coding, we want others to understand what we write, so why not follow a format that everyone can understand? 
   
   Inside my AP English class, my teacher once told me that a student of his was able to create a template for his essays that would guarantee him a good score. Following a coding standard could set us up and provide a foundation for our future coding endeavors. If we can do the fundamentals, we can achieve higher heights. Learning coding standards is much like learning a template, or even taking notes. You are actively coding while learning coding standards, and much of the standards are already incorporated inside coding fundamentals. When you understand coding standards, chances are that you will understand the fundamentals of coding as well.

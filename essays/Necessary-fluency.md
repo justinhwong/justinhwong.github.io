@@ -8,6 +8,7 @@ labels:
   - Coding Standards
   - IntelliJ
 ---
+<p align="center"><img class="ui medium right floated rounded image" src="../images/codingStandard.jpg"></p>
 
 ## Building the foundation
 Coding is very much like learning a language, in learning and in application. Many of us express ourselves differently in languages, and likewise, we all code in our own personal style. On the contrary, when things become formal, there then becomes a set standard. In essays, we have to include transitions, indent, and use proper diction as a formality. Similarly in coding, we have coding standards where we have to format our code in a more universal, readable way. Writing essays provide a consistent read for all viewers. When coding, we want others to understand what we write, so why not follow a format that everyone can understand? 

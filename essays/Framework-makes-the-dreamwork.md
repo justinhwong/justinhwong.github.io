@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Framework makes the dreamwork
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-25
+date: 2020-02-27
 labels:
   - UI Framework
   - Semantic

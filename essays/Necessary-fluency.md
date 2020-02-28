@@ -5,8 +5,8 @@ title: Necessary fluency
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-27
 labels:
-  - UI Framework
-  - Semantic
+  - Coding Standards
+  - IntelliJ
 ---
 <p align="center"><img class="ui medium right floated rounded image" src="../images/codingStandard.jpg"></p>
 

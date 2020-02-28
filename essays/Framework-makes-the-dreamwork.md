@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Expanding Versatility
-<img class="ui medium float left image" align="left" src="../images/tools.jpg">
+<img class="ui medium float left image" align="left" src="../images/toolbox.png">
   When it comes to coding in general, it is important to expand your knowledge. The more you learn, the more adept and complete you become. Coding is like a toolbox, and the more variety of tools you have, the more prepared you become to solving a problem. UI frameworks are packed with any UI components that you need in your projects. Investing your time to learn a framework will ultimately decrease the amount of time you would need to create a website in comparison to using bare HTML and CSS. Efficiency and problem solving are a large part in becoming a good programmer
   
   </br>

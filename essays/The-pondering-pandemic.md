@@ -12,7 +12,7 @@ labels:
 
 
 ## My Personal Pandemic
-<p align="center"><img class="ui medium right floated rounded image" src="../images/stressing.jpg"></p>
+<p align="center"><img class="ui medium right floated rounded image" src="../images/relaxed.jpg"></p>
    I can't say that I'm not enjoying myself more often due to being at home all the time, but I am. I no longer have to 
    wake up early to go to class as my teacher records her 
     zoom instructions. Because I only have to attend lectures from time to time, I have a lot more free time to do

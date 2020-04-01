@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Covid can't cancel computer science!
+title: The Pondering Pandemic
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-31
 labels:
@@ -34,8 +34,18 @@ labels:
     substantially reduced. College is a time of making connections, meeting new people and doing new things. Due to the
     virus I can't helped but feel robbed of what College is about. Their is also something about learning inside an
     environment where you are conditioned to learn. Many of us who are at home are used to being relaxed at home, and 
-    don't have the self learning drive to work as hard as they did before the Corona pandemic. 
+    don't have the self learning drive to work as hard as they did before the Corona pandemic. I find myself having to 
+    push myself harder when it comes to completing work than before.
 
+ <p></p>
+ The age of technology thrives during this pandemic. ICS courses have been the ones who have best adapted when we
+ moved to online courses. Everything has already been recorded on YouTube, assignments are pre-made and can still be
+ applied on schedule. In fact, most of the topics we learned in 314 have been from assignments and practices that 
+ we do at home. Computer science is one of the most self directed career after all. Solutions for colleges in 
+ future pandemics is just an issue of preparedness. As a country we were not prepared, and it is a good lesson to
+ prepare for workloads to move online. We are in the technology age and as we advance there will hopefully be
+ better applications and set instructions for when an emergency happens again. So much free time lets us ponder.
+ Perhaps some of us ICS students will lead that advancement.
   
   
 

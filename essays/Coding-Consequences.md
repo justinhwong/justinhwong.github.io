@@ -47,7 +47,8 @@ he worked at, as well as the partnering pharma companies. Pharmaceutical compani
 with inflation of crucial drug prices, as well as other ridiculous medical costs. Everyone in the Milgram experiment went pass
 the fatal zone of shocking during their participation and I believe most people would have done the same. Even his account 
 manager who also originally questioned the quiz, was quick to comply after Sourour explained the requirements
-needed for the quiz. Hindsight and experiences like 
-Sourour's article helps people grow and understand the consequences, whether it's from the code we right or any other day to day action. 
+needed for the quiz. Hindsight and experiences like Sourour's article helps people grow and understand the consequences, 
+whether it's from the code we right or any other day to day action. Knowing what he had been through, I would distance myself
+from projects in which questions or goes against my ethics, and my moral beliefs.
 Through examination of Sourour's story we can see the unethical nature and consequences of being deceitful to others, as well as applying one's
 own ethics when seeing something questionable.

@@ -35,7 +35,7 @@ labels:
   a news report where a young girl had tragically passed through the use of the drug that was recommended in the quiz he had created. 
   In the article he speaks about his own naivety: "Nothing that we were doing was illegal" tells me that he had initially seen
   an underlying wrong in what he was doing. While being deceitful helps rake in cash, it goes against the betterment of others.
-  It isn't fair to the consumer, and consumers lose trust when companies put money as their highest priority.
+  It isn't fair to the consumer, has harmful consequences, and consumers lose trust when companies put money as their highest priority.
   As a result, Sourour was able to look back at his actions and was able to grow from this incident. His progress and story 
   have a strong message to future professionals, that ethics play a large role in your career; ignorance and naivety can create 
   immense consequences.

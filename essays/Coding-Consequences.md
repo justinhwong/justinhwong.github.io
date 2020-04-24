@@ -48,6 +48,6 @@ with inflation of crucial drug prices, as well as other ridiculous medical costs
 the fatal zone of shocking during their participation and I believe most people would have done the same. Even his account 
 manager who also originally questioned the quiz, was quick to comply after Sourour explained the requirements
 needed for the quiz. Hindsight and experiences like 
-Sourour help people grow and understand the consequences, whether it's from the code we right or any other day to day action. 
+Sourour's article helps people grow and understand the consequences, whether it's from the code we right or any other day to day action. 
 Through examination of Sourour's story we can see the unethical nature and consequences of being deceitful to others, as well as applying one's
-own ethics when seeing something questionable..
+own ethics when seeing something questionable.

@@ -8,7 +8,7 @@ labels:
   - Ethics
   - Software Engineering
 ---
-<p align="center"><img class="ui medium right floated rounded image" src="../images/codingStandard.jpg"></p>
+<p align="center"><img class="ui medium right floated rounded image" src="../images/ethic.jpg"></p>
 
 ## Enforcing Ethics Education
   Ethics is a ruleset, decisions, and actions of a person. As a software engineer they are expected, as professionals, to work in the benefit of others.

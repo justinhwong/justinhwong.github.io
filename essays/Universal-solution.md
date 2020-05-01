@@ -32,6 +32,7 @@ first so users can access and view our website, to then login in which they can 
 more functionality and pages we will eventually be at a point where we have a decent page running!
 
 ##A way of life
+
 Humans largely see many things as patterns. This is the strength of humans, to be able to problem solve through seeing patterns
 allow us to better understand what is in front of us. This is why many IQ tests include pattern finding in their tests. 
 We have been problem solving constantly since birth, and developing patterns in effect developed formulas which furthered

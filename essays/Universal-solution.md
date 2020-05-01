@@ -8,7 +8,6 @@ labels:
   - Design Patterns
   - Interview Question
 ---
-<p align="center"><img class="ui medium right floated rounded image" src="../images/ethic.jpg"></p>
 
 ## Everybody's Guide
   As a programmer you will face many obstacles that you will have to fix. Problem solving is a crucial skill needed

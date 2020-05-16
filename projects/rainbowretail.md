@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/LandingPage1.png
 title: Rainbow Retail
-permalink: projects/finalproject
+permalink: projects/rainbowretail
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-15
 labels:

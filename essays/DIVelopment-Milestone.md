@@ -37,6 +37,15 @@ planned, and it is essential to adapt.
 Even in different scenarios and assignments, early planning and management will help you stay on track despite obstacles
 you might come across. 
 
+## Overall Progress
+Software engineering has made me a smarter and proficient programmer. Coding ethics, the effect our coding has, showcases
+the consequences of our actions and how it can affect other people. Group projects kept me conscience about others, 
+as well as proper teamwork and communication. The constant changes in this class increased my versatility, jumping from
+applications like JSFiddle to IntelliJ, or from barebones html and css to react and meteor. Many of what I learned from this class
+not only taught me how to build an application, but how to build non related projects as well. I came out expanding my skill set;
+improving my programming ability as a whole. 
+
+
     
   
   

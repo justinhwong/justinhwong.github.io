@@ -35,6 +35,6 @@ Project Overview: <a href="https://renigmaflea.github.io/"><i class="="></i>Rain
 
 <p align="center"><img class="ui image" src="{{ site.baseurl }}/images/listitembutton.PNG"></p>
 
-<p align="center"><img class="ui image" src="{{ site.baseurl }}/images/profilebutton.PNG"></p>
+<p align="center"><img src="{{ site.baseurl }}/images/profilebutton.PNG"></p>
 
 

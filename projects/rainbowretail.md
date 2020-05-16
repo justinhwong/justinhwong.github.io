@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/finalproject.png
+image: images/LandingPage1.png
 title: Rainbow Retail
 permalink: projects/finalproject
 # All dates must be YYYY-MM-DD format!
@@ -31,7 +31,7 @@ I believe was the most important experience coming from this project. Understand
 helping teammates when they have issues, as well as taking over issues that people won't or can't complete. I learned
 how to strive despite multiple deficits or hindrances as well as an appreciation for hard workers.
  
-YouTube link to the game: <a href="https://renigmaflea.github.io/"><i class="="></i>ics-111-game</a>
+Project Overview: <a href="https://renigmaflea.github.io/"><i class="="></i>Rainbow Retail</a>
 
 <p align="center"><img class="ui image" src="{{ site.baseurl }}/images/listitembutton.PNG"></p>
 

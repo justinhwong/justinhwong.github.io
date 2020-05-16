@@ -73,6 +73,25 @@
       "endDate": "Present",
       "gpa": "3.88",
       "courses": [
+        "ICS 111 (Intro to Comp Sci 1)",
+        "ICS 211 (Intro to Comp Sci 2)",
+        "ICS 141 (Discrete Math 1)",
+        "ICS 241 (Discrete Math 2)",
+        "ICS 212",
+        "ICS 314 (Software Engineering 1)",
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Hamilton Library",
+      "position": "IT",
+      "website": "http://manoa.hawaii.edu/library/",
+      "startDate": "2020-01-30",
+      "endDate": "Present",
+      "summary": "Student IT helping tech issues for staff",
+      "highlights": [
+        "Working with both hardware and software",
       ]
     }
   ],

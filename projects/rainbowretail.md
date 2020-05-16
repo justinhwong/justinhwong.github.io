@@ -29,7 +29,7 @@ Issue management, working on respective issues in which we can all work together
 we would have to pull the work from others before we can pull request our own. Along with managing issues, team management
 I believe was the most important experience coming from this project. Understanding what your teammates can and cannot do,
 helping teammates when they have issues, as well as taking over issues that people won't or can't complete. I learned
-how to strive despite multiple deficits or hindrances as well as an appreciation for hard workers.
+how to strive despite multiple deficits or hindrances.
  
 Project Overview: <a href="https://renigmaflea.github.io/"><i class="="></i>Rainbow Retail</a>
 

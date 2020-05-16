@@ -30,11 +30,10 @@ which task a person needs to do, and what other task you can do when you have fi
 process is as smooth as possible, where everyone can be working on something the same time without hindering others. 
 
    From my group project I was able to develop many leadership skills, managing group members, assigning tasks as well as 
-guiding others to task completion. The most difficult part of my group project was a lack of communication, with three 
-out of my five group members not communicating, it was important for me to coordinate respectively. Giving easier task
+guiding others to task completion. The most difficult part of my group project was a lack of communication,
+ it was important for me to coordinate respectively. Giving simpler tasks
 for weaker programmers or completing issues that others could not were needed. Unfortunately groups don't always go as 
-planned, and it is essential to adapt. Although my group was a 5 man group, it honestly felt like 2 and a half, and I 
-now believe it is reasonable to expect yourself to carry a much higher load then you normally would think. 
+planned, and it is essential to adapt.
 Even in different scenarios and assignments, early planning and management will help you stay on track despite obstacles
 you might come across. 
 

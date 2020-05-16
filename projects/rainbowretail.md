@@ -32,6 +32,7 @@ helping teammates when they have issues, as well as taking over issues that peop
 how to strive despite multiple deficits or hindrances.
  
 Project Overview: <a href="https://renigmaflea.github.io/"><i class="="></i>Rainbow Retail</a>
+Project Source Code: <a href="https://github.com/renigmaflea/renigmaflea"><i class="="></i>Rainbow Retail</a>
 
 <p align="center"><img class="ui image" src="{{ site.baseurl }}/images/listitembutton.PNG"></p>
 

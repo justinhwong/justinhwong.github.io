@@ -13,15 +13,16 @@ labels:
 
 
 ## What is HACC-Hui?
-Link to Hacc-Hui: [HACC-Hui](https://hacc-hui.github.io/).
-  Hacc-Hui is a project we created to assist people in the HACC by helping individuals find teams and vice versa. Our Hacc-Hui website is connected 
+<p>Link to Hacc-Hui: [HACC-Hui](https://hacc-hui.github.io/). </p>
+
+  <p> Hacc-Hui is a project we created to assist people in the HACC by helping individuals find teams and vice versa. Our Hacc-Hui website is connected 
   through an application called Slack, using a slackbot to communicate between the workspace and application. Users can sign up to the website through 
   the slackbot as well as receiving messages regarding team management whether it’s an invitation or a request to join. When they first login to the 
   website they are required to read through and accept a consent form. For participants of the HACC that are under 18 they are required to provide their 
   parent’s email address in which the parents can sign for their child. There are two groups, users and admins. Users can fill out a profile and create or 
   look for a team. There are also functionalities for teams such as dming team members, leaving a team, suggestions for tools and skills, and even filter 
   through participants. As an admin you had the ability to view all the teams, view all the participants, edit information about the teams, as well as edit 
-  topics such as tools or challenges.
+  topics such as tools or challenges. </p>
 
 
 ## My Milestone Functionality

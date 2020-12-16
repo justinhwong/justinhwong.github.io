@@ -29,7 +29,7 @@ labels:
   by me and my team member Angeli. To configure the challenges, tools and skills you had to route to the database that held these respective tools and fetch 
   them respectively, creating an administrator component which would be pulled through by the administrator page.
 
-<p align="center"><img class="ui medium right floated rounded image" src="../images/configurehacc.PNG"></p>
+<p align="center"><img class="ui large center floated image" src="../images/configurehacc.PNG"></p>
   Here on this page you can view, add, edit, or delete challenges, skill or tools.
   Github Page Link: https://github.com/HACC-Hui/HACC-Hui/blob/master/app/imports/ui/components/administrator/ManageHaccWidget.jsx 
   
@@ -39,7 +39,7 @@ labels:
   all the developers from each team, finding all the teams through a team ID, and having an intersection through the teams topic ID (challenges, tools and 
   skills) respective to the list of topics. 
 
-  <p align="center"><img class="ui medium right floated rounded image" src="../images/bestfitteams.PNG"></p>
+  <p align="center"><img class="ui large center floated image" src="../images/bestfitteams.PNG"></p>
   This page lists all the teams and you can sort them by topic. (Alphabetical and best fit was added later on)
   
   The final milestone was a combination of milestones 3 and 4. The issues I worked on included working on a view team/team compliance page for an 
@@ -51,10 +51,10 @@ labels:
   edit button to edit info about the team. As for the look of the website, I changed the help page to be more compact, made pages fit an overall theme of 
   the website by making all pages the same color, the same style of div, padding, navbar, and backgrounds.
 
-  <p align="center"><img class="ui medium right floated rounded image" src="../images/teamcompliance page.PNG"></p>
+  <p align="center"><img class="ui large center floated image" src="../images/teamcompliance page.PNG"></p>
   Here you can view all the teams that have been created and whether or not the team is compliant.
 
-  <p align="center"><img class="ui medium right floated rounded image" src="../images/helppage.PNG"></p>
+  <p align="center"><img class="ui large center floated image" src="../images/helppage.PNG"></p>
   Help page became more like other pages and fit two questions per row instead of one.
   
   ## Teamwork makes the dreamwork

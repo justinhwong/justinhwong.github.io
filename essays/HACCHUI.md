@@ -32,7 +32,7 @@ labels:
 <p align="center"><img class="ui huge center floated image" src="../images/configurehacc.PNG"></p>
 
   <p>Here on this page you can view, add, edit, or delete challenges, skill or tools.</p>
-	[Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/master/app/imports/ui/components/administrator/ManageHaccWidget.jsx). 
+[Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/master/app/imports/ui/components/administrator/ManageHaccWidget.jsx). 
   
   <p> For the second milestone I was tasked to work on creating a team finder page which showcases all the created teams, as well as the functionality to 
   sort through the list of teams by challenges, skills or tools. The best fit team page pulls from the a component widget that lists all the teams. The 
@@ -43,7 +43,8 @@ labels:
   <p align="center"><img class="ui huge center floated image" src="../images/bestfitteams.PNG"></p>
   
   <p>This page lists all the teams and you can sort them by topic. (Alphabetical and best fit was added later on) </p>
-	[Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/13e7deffacc550fc2e76e31d7521bdbb8b15f32f/app/imports/ui/pages/participant/BestFitTeamDisplay.jsx). 
+
+[Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/13e7deffacc550fc2e76e31d7521bdbb8b15f32f/app/imports/ui/pages/participant/BestFitTeamDisplay.jsx). 
 
   
   <p>The final milestone was a combination of milestones 3 and 4. The issues I worked on included working on a view team/team compliance page for an 
@@ -58,13 +59,13 @@ labels:
   <p align="center"><img class="ui huge center floated image" src="../images/teamcompliance page.PNG"></p>
   
   <p>Here you can view all the teams that have been created and whether or not the team is compliant.</p>
-	[Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/89ccd14720339b4a1b4d967fe1f1055c20df558d/app/imports/ui/components/administrator/ViewTeamExampleWidget.jsx).
-
+	
+[Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/89ccd14720339b4a1b4d967fe1f1055c20df558d/app/imports/ui/components/administrator/ViewTeamExampleWidget.jsx).
 
   <p align="center"><img class="ui huge center floated image" src="../images/helppage.PNG"></p>
   
   <p> Help page became more like other pages and fit two questions per row instead of one.</p>
-	[Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/1cad17530c15c5bf31d4b93d1bf5ae32ee4d5e9c/app/imports/ui/pages/HelpPage.jsx). 
+[Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/1cad17530c15c5bf31d4b93d1bf5ae32ee4d5e9c/app/imports/ui/pages/HelpPage.jsx). 
 
   
 ## Teamwork makes the dreamwork

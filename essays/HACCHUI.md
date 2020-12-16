@@ -13,6 +13,7 @@ labels:
 
 
 ## What is HACC-Hui?
+Link to Hacc-Hui: [HACC-Hui](https://hacc-hui.github.io/).
   Hacc-Hui is a project we created to assist people in the HACC by helping individuals find teams and vice versa. Our Hacc-Hui website is connected 
   through an application called Slack, using a slackbot to communicate between the workspace and application. Users can sign up to the website through 
   the slackbot as well as receiving messages regarding team management whether it’s an invitation or a request to join. When they first login to the 

@@ -29,7 +29,7 @@ labels:
   by me and my team member Angeli. To configure the challenges, tools and skills you had to route to the database that held these respective tools and fetch 
   them respectively, creating an administrator component which would be pulled through by the administrator page.
 
-<p align="center"><img class="ui big center floated image" src="../images/configurehacc.PNG"></p>
+<p align="center"><img class="ui huge center floated image" src="../images/configurehacc.PNG"></p>
 
   <p>Here on this page you can view, add, edit, or delete challenges, skill or tools. </p>
   
@@ -41,30 +41,30 @@ labels:
   all the developers from each team, finding all the teams through a team ID, and having an intersection through the teams topic ID (challenges, tools and 
   skills) respective to the list of topics. </p>
 
-  <p align="center"><img class="ui large center floated image" src="../images/bestfitteams.PNG"></p>
+  <p align="center"><img class="ui huge center floated image" src="../images/bestfitteams.PNG"></p>
   
   <p>This page lists all the teams and you can sort them by topic. (Alphabetical and best fit was added later on) </p> 
   
   [Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/13e7deffacc550fc2e76e31d7521bdbb8b15f32f/app/imports/ui/pages/participant/BestFitTeamDisplay.jsx). 
 
   
-  The final milestone was a combination of milestones 3 and 4. The issues I worked on included working on a view team/team compliance page for an 
+  <p>The final milestone was a combination of milestones 3 and 4. The issues I worked on included working on a view team/team compliance page for an 
   administrative account with a team member, and frontend ui in which I improved the look and feel across all the pages. We created a function that would 
   look through all participants and check whether or not they fulfill the “isComplaint” requirement from the participant collection. Then we created 
   functions that acted upon that information, and showcases either “Team is compliant” or “Team is not compliant”. Compliance is shown when you first 
   create an account, and if a member has not accepted it, or a participant who is under 18 and have not had their parents accept it on their behalf, every 
   team they are on is in non compliance. For the overall page to showcase the teams, we mapped through the teams, their challenges, members, info, and an 
   edit button to edit info about the team. As for the look of the website, I changed the help page to be more compact, made pages fit an overall theme of 
-  the website by making all pages the same color, the same style of div, padding, navbar, and backgrounds.
+  the website by making all pages the same color, the same style of div, padding, navbar, and backgrounds. </p>
 
-  <p align="center"><img class="ui large center floated image" src="../images/teamcompliance page.PNG"></p>
+  <p align="center"><img class="ui huge center floated image" src="../images/teamcompliance page.PNG"></p>
   
   <p>Here you can view all the teams that have been created and whether or not the team is compliant. </p>
   
   [Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/89ccd14720339b4a1b4d967fe1f1055c20df558d/app/imports/ui/components/administrator/ViewTeamExampleWidget.jsx).
 
 
-  <p align="center"><img class="ui large center floated image" src="../images/helppage.PNG"></p>
+  <p align="center"><img class="ui huge center floated image" src="../images/helppage.PNG"></p>
   
   <p> Help page became more like other pages and fit two questions per row instead of one. </p>
   

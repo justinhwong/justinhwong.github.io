@@ -31,8 +31,6 @@ labels:
   them respectively, creating an administrator component which would be pulled through by the administrator page.
 
   Here on this page you can view, add, edit, or delete challenges, skill or tools.  
-  Github Page Link: https://github.com/HACC-Hui/HACC-Hui/blob/master/app/imports/ui/components/administrator/ManageHaccWidget.jsx 
-  
 	For the second milestone I was tasked to work on creating a team finder page which showcases all the created teams, as well as the functionality to 
   sort through the list of teams by challenges, skills or tools. The best fit team page pulls from the a component widget that lists all the teams. The 
   functionality of sorting through these teams was however pulled from another group. The general functionality of the sorting was done through retrieving 
@@ -40,7 +38,6 @@ labels:
   skills) respective to the list of topics. 
 
   This page lists all the teams and you can sort them by topic. (Alphabetical and best fit was added later on)
-
 	The final milestone was a combination of milestones 3 and 4. The issues I worked on included working on a view team/team compliance page for an 
   administrative account with a team member, and frontend ui in which I improved the look and feel across all the pages. We created a function that would 
   look through all participants and check whether or not they fulfill the “isComplaint” requirement from the participant collection. Then we created 

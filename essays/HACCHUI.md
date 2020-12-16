@@ -30,7 +30,9 @@ labels:
   them respectively, creating an administrator component which would be pulled through by the administrator page.
 
 <p align="center"><img class="ui large center floated image" src="../images/configurehacc.PNG"></p>
+
   Here on this page you can view, add, edit, or delete challenges, skill or tools.
+  
   Github Page Link: https://github.com/HACC-Hui/HACC-Hui/blob/master/app/imports/ui/components/administrator/ManageHaccWidget.jsx 
   
   For the second milestone I was tasked to work on creating a team finder page which showcases all the created teams, as well as the functionality to 
@@ -40,7 +42,11 @@ labels:
   skills) respective to the list of topics. 
 
   <p align="center"><img class="ui large center floated image" src="../images/bestfitteams.PNG"></p>
+  
   This page lists all the teams and you can sort them by topic. (Alphabetical and best fit was added later on)
+  
+  Github Page Link: (https://github.com/HACC-Hui/HACC-Hui/blob/13e7deffacc550fc2e76e31d7521bdbb8b15f32f/app/imports/ui/pages/participant/BestFitTeamDisplay.jsx) 
+
   
   The final milestone was a combination of milestones 3 and 4. The issues I worked on included working on a view team/team compliance page for an 
   administrative account with a team member, and frontend ui in which I improved the look and feel across all the pages. We created a function that would 
@@ -52,10 +58,18 @@ labels:
   the website by making all pages the same color, the same style of div, padding, navbar, and backgrounds.
 
   <p align="center"><img class="ui large center floated image" src="../images/teamcompliance page.PNG"></p>
+  
   Here you can view all the teams that have been created and whether or not the team is compliant.
+  
+  Github Page Link: (https://github.com/HACC-Hui/HACC-Hui/blob/89ccd14720339b4a1b4d967fe1f1055c20df558d/app/imports/ui/components/administrator/ViewTeamExampleWidget.jsx) 
+
 
   <p align="center"><img class="ui large center floated image" src="../images/helppage.PNG"></p>
+  
   Help page became more like other pages and fit two questions per row instead of one.
+  
+  Github Page Link: (https://github.com/HACC-Hui/HACC-Hui/blob/1cad17530c15c5bf31d4b93d1bf5ae32ee4d5e9c/app/imports/ui/pages/HelpPage.jsx)
+
   
   ## Teamwork makes the dreamwork
   

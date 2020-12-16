@@ -32,6 +32,7 @@ labels:
 <p align="center"><img class="ui huge center floated image" src="../images/configurehacc.PNG"></p>
 
   <p>Here on this page you can view, add, edit, or delete challenges, skill or tools.</p>
+  
 [Github Page](https://github.com/HACC-Hui/HACC-Hui/blob/master/app/imports/ui/components/administrator/ManageHaccWidget.jsx). 
   
   <p> For the second milestone I was tasked to work on creating a team finder page which showcases all the created teams, as well as the functionality to 
